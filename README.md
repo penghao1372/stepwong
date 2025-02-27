@@ -1,5 +1,8 @@
 # stepwong
 ZEPP Life API刷微信支付宝步数
+
+STEP_PAT : your github token
+
 config 配置
 {
     "PUSH_PLUS_TOKEN": "",
